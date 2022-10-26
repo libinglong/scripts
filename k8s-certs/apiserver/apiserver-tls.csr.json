@@ -1,0 +1,17 @@
+{
+  "CN": "apiserver",
+  "hosts": ["192.160.3.30"],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "CN",
+      "ST": "HangZhou",
+      "L": "XS",
+      "O": "system:masters",
+      "OU": "System"
+    }
+  ]
+}

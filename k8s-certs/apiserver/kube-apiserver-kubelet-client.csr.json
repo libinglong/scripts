@@ -1,0 +1,17 @@
+{
+  "CN": "kube-apiserver-kubelet-client",
+  "hosts": ["127.0.0.2"],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "CN",
+      "ST": "HangZhou",
+      "L": "XS",
+      "O": "system:masters",
+      "OU": "System"
+    }
+  ]
+}
